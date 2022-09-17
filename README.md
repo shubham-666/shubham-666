@@ -1,5 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6a4f167342511.5b360776b6e3d.gif">
-<img align="left" width="100" src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.gif"><I'm SHUBHAM TIWARI>
+<img align="left" width="100" src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.gif"><h1 align="center">I'm SHUBHAM TIWARI<h1>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="center">I’m interested in Full Stack, UI/UX design and Critical thinking.</h3>
 
