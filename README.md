@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="10054" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6a4f167342511.5b360776b6e3d.gif">
 <img align="left" width="100px" src="https://i.gifer.com/origin/e0/e08f73642d422d94483c0ca96f737ac2_w200.gif">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" style= "padding-left: 84px"; src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-666&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-666" /> </p><h1 align="center">I'm SHUBHAM TIWARI<h1>
 
