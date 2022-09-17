@@ -1,4 +1,4 @@
-[ ! [ MasterHead ](https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6a4f167342511.5b360776b6e3d.gif)
+! [ MasterHead ](https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6a4f167342511.5b360776b6e3d.gif)
 
 <h1 align="center">Hi 👋, I'm SHUBHAM TIWARI</h1>
 <h3 align="center">I’m interested in Full Stack, UI/UX design and Critical thinking.</h3>
