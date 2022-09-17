@@ -1,6 +1,5 @@
-! [ MasterHead ](https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6a4f167342511.5b360776b6e3d.gif)
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d6a4f167342511.5b360776b6e3d.gif">
 
-<h1 align="center">Hi 👋, I'm SHUBHAM TIWARI</h1>
 <h3 align="center">I’m interested in Full Stack, UI/UX design and Critical thinking.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
