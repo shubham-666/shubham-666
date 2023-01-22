@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-666&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-666" /> </p><h1 align="center">I'm SHUBHAM TIWARI<h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham-666" alt="shubham-666" /></a> </p>
-   <h3 align="center">I’m interested in Full Stack, UI/UX design and Critical thinking.</h3>
+   <h3 align="center">I’m interested in Full Stack Developer, UI/UX design and Critical thinking.</h3>
 - 🔭 I’m currently working on **Full Stack Developer**
 
 - 🌱 I’m currently learning **DSA,gatsby.js**
