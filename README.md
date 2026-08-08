@@ -10,8 +10,9 @@
 </p>
 
 <p>
-<a href="https://linkedin.com/in/shubham--tiwari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubham--tiwari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/shubham-666"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://wa.me/918808740332"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:shubham8299tiwari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
@@ -19,56 +20,88 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## 👨‍💻 About Me
 
-```yaml
-role: AI/ML Engineer & Backend Engineer
-current:
-  - Software Engineer @ Outlier.AI     — LLM evaluation, prompt engineering, model reliability (+95%)
-  - Software Engineer @ Handshake.ai   — CI/test-orchestration for AI-generated code, Docker sandboxing
-past:
-  - Technical Staff Developer @ Emaar India   (Feb 2024 – Jun 2025)
-  - Software Engineer Intern @ PhonePe        (Jun 2022 – Aug 2022) · 150M+ MAU
-  - Research Developer @ IIIT Jabalpur        (May 2023 – Jul 2023) · counter-drone ML systems
-education: B.Tech, Computer Science & Engineering — PDPM IIIT Jabalpur (2020–2024)
-focus: [LLM Evaluation, Agentic AI, RAG, Backend Systems, Distributed Systems]
-fun_fact: "It is impossible for most people to lick their own elbow 😄"
-```
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm an **AI/ML & Backend Engineer** with 2+ years turning ambiguous problems into production systems — from LLM evaluation rubrics that improved model reliability by **95%**, to agentic AI pipelines built on LangChain/LangGraph, to backend platforms serving 150M+ MAU.
+
+🔭 **Currently building:** LLM evaluation pipelines, agentic AI systems, and CI/test-orchestration tooling for AI-generated code
+🌱 **Currently exploring:** RAG architectures, LoRA/PEFT fine-tuning, MCP-based multi-agent orchestration
+🎯 **Currently focused on:** shipping reliable, low-latency AI systems that hold up in production
+🤝 **Open to collaborate on:** Agentic AI, RAG systems, and backend platforms at scale
+⚡ **Fun fact:** It is impossible for most people to lick their own elbow 😄
+
+</td>
+<td width="40%" valign="top">
+
+**📍 Current Roles**
+| | |
+|---|---|
+| 🤖 | Software Engineer @ **Outlier.AI** |
+| 🛠️ | Software Engineer @ **Handshake.ai** |
+
+**📚 Past Experience**
+| | |
+|---|---|
+| 🏢 | Technical Staff Dev @ **Emaar India** |
+| 📱 | SWE Intern @ **PhonePe** (150M+ MAU) |
+| 🛰️ | Research Dev @ **IIIT Jabalpur** |
+
+**🎓 Education**
+B.Tech CSE — PDPM IIIT Jabalpur `2020–2024`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🚀 Tech Stack
 
-<div align="center">
-
-**Languages**
-<br/>
+<table width="100%">
+<tr>
+<td align="center" width="20%"><b>🧩 Languages</b></td>
+<td width="80%">
 <img src="https://skillicons.dev/icons?i=python,java,go,cpp,js,csharp" />
-
-**AI / ML / LLM**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 AI / ML / LLM</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" /><br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square"/>
 <img src="https://img.shields.io/badge/MCP%20Protocol-6E56CF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67D?style=flat-square"/>
-
-**Backend & APIs**
-<br/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend / APIs</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=fastapi,django,spring,nodejs,express" />
-
-**Databases & Caching**
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-
-**Infra & DevOps**
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Infra / DevOps</b></td>
+<td>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,git" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -89,49 +122,82 @@ fun_fact: "It is impossible for most people to lick their own elbow 😄"
 ## 🏆 Highlights
 
 <div align="center">
-
-| 🎯 GFG Global Rank | 🧩 DSA Problems | 📈 LLM Reliability Gain | 👥 Students Mentored |
-|:---:|:---:|:---:|:---:|
-| **#143 / 10,000+** (Top 1.5%) | **1,000+** | **95%** | **300+** |
-
+<table>
+<tr>
+<td align="center">🎯<br/><b>GFG Global Rank</b><br/><h3>#143 / 10,000+</h3><sub>Top 1.5%</sub></td>
+<td align="center">🧩<br/><b>DSA Problems</b><br/><h3>1,000+</h3><sub>LeetCode · GFG · CodeChef</sub></td>
+<td align="center">📈<br/><b>LLM Reliability Gain</b><br/><h3>95%</h3><sub>@ Outlier.AI</sub></td>
+<td align="center">👥<br/><b>Students Mentored</b><br/><h3>300+</h3><sub>IIIT Jabalpur</sub></td>
+</tr>
+</table>
 </div>
+
+<br/>
 
 ## 🧠 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🤖 AI Mental Health Assistant**
-Production Agentic AI system — LangGraph multi-stage state machines, RAG pipelines, FastAPI microservices. Reduced context loss by 40%, sub-200ms inference latency.
-`Python` `LangGraph` `LangChain` `ChromaDB` `Redis` `Docker`
+### 🤖 AI Mental Health Assistant
+Production-grade Agentic AI system using LangGraph multi-stage LLM state machines and RAG pipelines behind FastAPI microservices.
+
+**Impact:** 40% less context loss · sub-200ms inference · 87%+ emotion-classification accuracy
+
+`Python` `LangGraph` `LangChain` `HuggingFace` `ChromaDB` `Redis` `Docker` `React`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**💬 WhatsApp Expense Tracker**
-Multi-agent AI platform on WhatsApp using LangGraph ReAct orchestration + LLaMA 3.3 70B via Groq, with a custom FastMCP server for tool calling.
-`FastAPI` `asyncpg` `MCP` `WhatsApp Cloud API`
+### 💬 WhatsApp Expense Tracker
+Multi-agent AI platform on WhatsApp — LangGraph ReAct orchestration + LLaMA 3.3 70B via Groq, with a custom FastMCP tool-calling server.
+
+**Impact:** Sub-second responses · zero cold-start failures · zero-UI conversational flow
+
+`FastAPI` `asyncpg` `PostgreSQL` `MCP` `Docker Compose` `WhatsApp Cloud API`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📐 SpectralNet**
-Scalable deep learning clustering framework combining spectral graph theory + neural representation learning. Optimized complexity from O(N log N) → O(N).
-`PyTorch` `Scikit-learn` `Graph Theory`
+### 📐 SpectralNet
+Scalable deep learning clustering framework combining spectral graph theory with neural representation learning, benchmarked on 100K+ samples.
+
+**Impact:** O(N log N) → O(N) complexity · 60% faster · 3x speedup vs. traditional spectral clustering
+
+`Python` `PyTorch` `Scikit-learn` `Graph Theory`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎫 Smart Campus Event Platform**
-Real-time event system with WebSocket seat-availability updates, conflict detection, and JWT RBAC — sub-200ms REST API across 50K+ records.
-`Java` `Spring Boot` `WebSocket` `PostgreSQL`
+### 🎫 Smart Campus Event Platform
+Real-time event management system with WebSocket-driven seat availability, calendar-aware conflict detection, and JWT-based RBAC.
+
+**Impact:** Sub-200ms REST API · 50K+ records · zero-drift Docker deployment
+
+`Java` `Spring Boot` `WebSocket` `JWT` `PostgreSQL` `Docker`
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 💼 Experience Timeline
+
+```
+2026 ─┬─ Software Engineer, Handshake.ai        │ CI/test-orchestration for AI-generated code
+      │
+2025 ─┼─ Software Engineer, Outlier.AI          │ LLM evaluation & reliability (+95%)
+      │
+2024 ─┼─ Technical Staff Developer, Emaar India │ Enterprise backend & client delivery
+      │
+2023 ─┼─ Research Developer, IIIT Jabalpur      │ Counter-drone ML detection systems
+      │
+2022 ─┴─ SWE Intern, PhonePe                    │ 150M+ MAU · +16% engagement
+```
 
 <br/>
 
@@ -140,6 +206,8 @@ Real-time event system with WebSocket seat-availability updates, conflict detect
 ### 📫 Let's Connect
 
 <a href="mailto:shubham8299tiwari@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi!-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/918808740332"><img src="https://img.shields.io/badge/-Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shubham--tiwari"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
