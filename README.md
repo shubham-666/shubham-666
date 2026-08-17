@@ -108,16 +108,16 @@ B.Tech CSE — PDPM IIIT Jabalpur `2020–2024`
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubham-666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-666&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-666&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=shubham-666&theme=tokyonight&no-frame=true&row=2&column=3" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=shubham-666&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-666&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham-666&theme=tokyonight&no-frame=true&row=2&column=3" width="49%" />
+</div>
 
 ## 🏆 Highlights
 
