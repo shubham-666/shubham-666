@@ -105,18 +105,25 @@ B.Tech CSE — PDPM IIIT Jabalpur `2020–2024`
 
 <br/>
 
-## 📊 GitHub Stats
+## ⚡ GitHub Intelligence
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=shubham-666&theme=tokyonight&hide_border=true" width="49%" />
-</div>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-666&theme=tokyonight" width="98%"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-666&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-666&theme=tokyonight&no-frame=true&row=2&column=3" width="49%" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-666&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-666&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-666&theme=tokyonight" width="48%"/>
+
+
+<img src="https://streak-stats.demolab.com/?user=shubham-666&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak Stats" width="70%" />
+
+
 </div>
 
 ## 🏆 Highlights
